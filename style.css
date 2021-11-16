@@ -26,6 +26,8 @@ body {
 
 .logo {
     font-family: 'Sen', sans-serif;
+    font-size: 30px;
+    color: #4dbf00;
 }
 
 .menu-container {
