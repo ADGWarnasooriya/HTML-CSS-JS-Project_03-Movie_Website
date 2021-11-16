@@ -22,6 +22,14 @@ body {
     flex: 1;
 }
 
+.menu-container {
+    flex: 1;
+}
+
+.profile-container {
+    flex: 1;
+}
+
 .sidebar {
     width: 50px;
     height: 100%;
