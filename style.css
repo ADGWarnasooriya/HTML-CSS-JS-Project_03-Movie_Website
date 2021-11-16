@@ -26,6 +26,7 @@ body {
 
 .menu-container {
     flex: 6;
+    background-color: rgb(187, 130green, 130blue);
 }
 
 .profile-container {
