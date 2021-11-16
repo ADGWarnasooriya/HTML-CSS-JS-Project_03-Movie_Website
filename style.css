@@ -16,6 +16,8 @@ body {
     display: flex;
     align-items: center;
     background-color: blanchedalmond;
+    padding: 0 50px;
+    height: 100%;
 }
 
 .logo-container {
