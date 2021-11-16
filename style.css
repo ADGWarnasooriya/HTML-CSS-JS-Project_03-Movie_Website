@@ -30,7 +30,8 @@ body {
 }
 
 .profile-container {
-    flex: 1;
+    flex: 2;
+    background-color: red;
 }
 
 .sidebar {
