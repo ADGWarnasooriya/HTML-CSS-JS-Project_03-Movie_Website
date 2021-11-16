@@ -18,6 +18,10 @@ body {
     background-color: blanchedalmond;
 }
 
+.logo-container {
+    flex: 1;
+}
+
 .sidebar {
     width: 50px;
     height: 100%;
