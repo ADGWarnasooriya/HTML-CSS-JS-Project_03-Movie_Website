@@ -12,6 +12,12 @@ body {
     background-color: black;
 }
 
+.navbar-container {
+    display: flex;
+    align-items: center;
+    background-color: blanchedalmond;
+}
+
 .sidebar {
     width: 50px;
     height: 100%;
