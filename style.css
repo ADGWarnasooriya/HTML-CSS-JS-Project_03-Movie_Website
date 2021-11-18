@@ -10,6 +10,7 @@ body {
     width: 100%;
     height: 50px;
     background-color: black;
+    font-family: 'Sen', sans-serif;
 }
 
 .navbar-container {
@@ -25,7 +26,6 @@ body {
 }
 
 .logo {
-    font-family: 'Sen', sans-serif;
     font-size: 30px;
     color: #4dbf00;
 }
