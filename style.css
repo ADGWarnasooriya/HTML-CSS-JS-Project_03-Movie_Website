@@ -43,6 +43,10 @@ body {
     margin-left: 30px;
 }
 
+.menu-list-items.active {
+    font-weight: bold;
+}
+
 .profile-container {
     flex: 2;
 }
