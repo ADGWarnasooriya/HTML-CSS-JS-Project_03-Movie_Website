@@ -34,6 +34,10 @@ body {
     flex: 6;
 }
 
+.menu-list {
+    display: flex;
+}
+
 .profile-container {
     flex: 2;
 }
