@@ -72,6 +72,10 @@ body {
     border-radius: 30px;
 }
 
+.toggle-icon {
+    color: goldenrod;
+}
+
 .sidebar {
     width: 50px;
     height: 100%;
