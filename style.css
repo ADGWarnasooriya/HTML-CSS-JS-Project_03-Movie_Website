@@ -95,6 +95,8 @@ body {
     background-color: black;
     position: fixed;
     top: 0;
+    display: flex;
+    flex-direction: column;
 }
 
 .left-menu-icon {
