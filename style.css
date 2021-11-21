@@ -116,3 +116,8 @@ body {
 .content-container {
     margin-left: 50px;
 }
+
+.featured-container {
+    height: 50vh;
+    background-color: tomato;
+}
