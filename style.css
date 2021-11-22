@@ -120,3 +120,7 @@ body {
 .featured-container {
     height: 50vh;
 }
+
+.featured-title {
+    width: 200px;
+}
