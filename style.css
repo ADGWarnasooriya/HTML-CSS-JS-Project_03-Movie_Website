@@ -109,7 +109,7 @@ body {
 
 .container {
     background-color: #151515;
-    height: calc(100vh - 50px);
+    min-height: calc(100vh - 50px);
     color: white;
 }
 
