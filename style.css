@@ -119,6 +119,7 @@ body {
 
 .featured-container {
     height: 50vh;
+    padding: 50px;
 }
 
 .featured-title {
