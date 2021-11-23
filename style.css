@@ -115,6 +115,7 @@ body {
 
 .content-container {
     margin-left: 50px;
+    background-image: linear-gradient(to top, rgba(255, 0, 0, 0), rgb(129, 6, 6));
 }
 
 .featured-container {
