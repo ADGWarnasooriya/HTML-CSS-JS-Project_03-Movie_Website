@@ -132,3 +132,13 @@ body {
     color: lightgray;
     margin: 30px 0;
 }
+
+.featured-button {
+    background-color: #4dbf00;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-weight: bold;
+}
