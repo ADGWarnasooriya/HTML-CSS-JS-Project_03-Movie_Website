@@ -153,6 +153,10 @@ body {
     height: 300px;
 }
 
+.movie-list-item {
+    margin-right: 30px;
+}
+
 .movie-list-item-img {
     width: 270px;
     height: 200px;
