@@ -179,3 +179,12 @@ body {
     top: 10%;
     left: 50px;
 }
+
+.movie-list-item-desc {
+    background-color: #333;
+    padding: 10px;
+    font-size: 14px;
+    position: absolute;
+    top: 10%;
+    left: 50px;
+}
