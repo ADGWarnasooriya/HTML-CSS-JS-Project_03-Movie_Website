@@ -147,6 +147,12 @@ body {
     padding: 20px;
 }
 
+.movie-list {
+    display: flex;
+    align-items: center;
+    height: 300px;
+}
+
 .movie-list-item-img {
     width: 270px;
     height: 200px;
