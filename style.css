@@ -155,6 +155,7 @@ body {
 
 .movie-list-item {
     margin-right: 30px;
+    position: relative;
 }
 
 .movie-list-item:hover .movie-list-item-img {
