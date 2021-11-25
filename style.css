@@ -148,7 +148,7 @@ body {
 }
 
 .movie-list-wrapper {
-    position: absolute;
+    position: relative;
 }
 
 .movie-list {
