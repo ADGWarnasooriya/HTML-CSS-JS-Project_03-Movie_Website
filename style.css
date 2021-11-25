@@ -147,6 +147,10 @@ body {
     padding: 20px;
 }
 
+.movie-list-wrapper {
+    position: absolute;
+}
+
 .movie-list {
     display: flex;
     align-items: center;
