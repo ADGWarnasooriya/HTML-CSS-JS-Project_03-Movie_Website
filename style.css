@@ -178,6 +178,7 @@ body {
     position: absolute;
     top: 10%;
     left: 50px;
+    opacity: 0;
 }
 
 .movie-list-item-desc {
