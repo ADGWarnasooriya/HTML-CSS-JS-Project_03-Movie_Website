@@ -164,6 +164,12 @@ body {
     opacity: 0.5;
 }
 
+.movie-list-item:hover .movie-list-item-title,
+.movie-list-item:hover .movie-list-item-desc,
+.movie-list-item:hover .movie-list-item-button {
+    opacity: 1;
+}
+
 .movie-list-item-img {
     transition: all 1s ease-in-out;
     width: 270px;
