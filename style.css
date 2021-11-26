@@ -222,7 +222,7 @@ body {
 
 .arrow {
     font-size: 120px;
-    position: absolute;
+    position: relative;
     top: 90px;
     right: 0;
     color: lightgray;
