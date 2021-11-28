@@ -156,6 +156,7 @@ body {
     display: flex;
     align-items: center;
     height: 300px;
+    transform: translateX(0);
 }
 
 .movie-list-item {
