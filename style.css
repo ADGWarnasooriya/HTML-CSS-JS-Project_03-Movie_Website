@@ -149,6 +149,7 @@ body {
 
 .movie-list-wrapper {
     position: relative;
+    overflow: hidden;
 }
 
 .movie-list {
